@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "KU-BD-Fish: High-Resolution White-Background and Segmented Images for Species Classification"
+version: "3"
+date-released: 2025-10-28
+doi: 10.17632/n9m5bywxwc.3
+url: "https://data.mendeley.com/datasets/n9m5bywxwc/3"
+license: CC-BY-4.0
+authors:
+  - family-names: Naim
+    given-names: S. M.
+  - family-names: Rahman
+    given-names: Md Ashikkur
+  - family-names: Das
+    given-names: Prosenjit
+  - family-names: Nahid
+    given-names: Abdullah-Al
+    affiliation: Khulna University
+keywords:
+  - fish species classification
+  - image dataset
+  - segmentation
+  - computer vision
+  - Bangladesh
+  - biodiversity
